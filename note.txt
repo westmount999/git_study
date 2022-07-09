@@ -11,3 +11,4 @@ LICENCE
 execuition.sh
 packman_exe
 重要書類.doc
+きょうのおかず.txt
